@@ -2,9 +2,13 @@
 
 A new Flutter package project for createing Buttons.
 
-Screenshots | Screenshots
-_ _ _ _ _ _ |_ _ _ _ _ _ _
-![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131347.jpg) |  
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131347.jpg)
 ![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131343.jpg)
 
 ## Getting Started
