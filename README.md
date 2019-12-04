@@ -9,7 +9,7 @@ Screenshot | Screenshot
 
 
 
-![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131343.jpg)
+
 
 ## Getting Started
 
