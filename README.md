@@ -2,11 +2,11 @@
 
 A new Flutter package project for createing Buttons.
 
-|______________________________________________|__________________________________|
-|![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131347.jpg)| ![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131343.jpg)|
-|
-|
-|
+Screenshots | Screenshots
+_ _ _ _ _ _ |_ _ _ _ _ _ _
+![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131347.jpg) |  
+![](https://github.com/skaran921/flutter_buttons/blob/master/Screenshot_20191204-131343.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Dart
