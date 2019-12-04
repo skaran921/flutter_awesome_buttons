@@ -238,6 +238,10 @@ class _HomePageState extends State<HomePage> {
                   ], title: "Gredient Button",),
                        ],
                   ),
+                  
+ ```
+ # Sign in Buttons
+```
                   Padding(
                     padding: EdgeInsets.symmetric(horizontal: 100),
                     child: SignInWithEmail(onPressed: (){},),
