@@ -43,6 +43,9 @@ class _HomePageState extends State<HomePage> {
             children: <Widget>[
               Row(
                 children: <Widget>[
+ ```
+ # Success Button
+ ```
                   SuccessButton(
                     title: "Success Button",
                     onPressed: () {
@@ -50,6 +53,9 @@ class _HomePageState extends State<HomePage> {
                     },
                   ),
                   SizedBox(width: 2.0,),
+```
+ # Danger Button
+ ```
                   DangerButton(
                     title: "Danger Button",
                     onPressed: () {
@@ -57,12 +63,18 @@ class _HomePageState extends State<HomePage> {
                     },
                   ),
                  SizedBox(width: 2.0,),
+```
+ # Primary Button
+ ```
                   PrimaryButton(
                     title: "Primary Button",
                     onPressed: () {                       
                     },
                   ),
                  SizedBox(width: 2.0,),
+```
+ # Warning Button
+ ```
                   WarningButton(
                     title: "Warning Button",
                     onPressed: () {                       
@@ -73,16 +85,28 @@ class _HomePageState extends State<HomePage> {
               ),
               Row(
                 children: <Widget>[
+ ```
+ # Disabled Button
+ ```
                   DisabledButtton(
                     onPressed: (){},
                     title: "Disabled Button",
                   ),
                    SizedBox(width: 2.0,),
+ ```
+ # Dark Button
+ ```
                 DarkButtton(
                   onPressed: (){},
                   title: "Dark Button",
-                )
-                ,ButttonWithIcon(icon: Icons.local_cafe,title: "Icon Button",onPressed: (){},),
+                ),
+```
+ # ButttonWithIcon Button (we can use both button and icon in this button)
+```
+                ButttonWithIcon(icon: Icons.local_cafe,title: "Icon Button",onPressed: (){},),
+```
+ # Floating Icon Button
+```
                 FloatingIconButton(
                   icon: Icons.home,
                   onPressed: (){},
@@ -96,7 +120,10 @@ class _HomePageState extends State<HomePage> {
               )
               ,Row(
                 children: <Widget>[
-                   SizedBox(width: 2,),
+                   SizedBox(width: 2,)
+ ```
+ # Line Buttons
+```
                   PrimaryLineButton(
                     onPressed: (){},
                     title: "Line Button",
@@ -135,6 +162,9 @@ class _HomePageState extends State<HomePage> {
               ],),
               Row(
                 children: <Widget>[
+```
+ # Rounded Button
+```
                   RoundedButton(
                     onPressed: (){},
                     title: "Rounded Button",
@@ -163,6 +193,9 @@ class _HomePageState extends State<HomePage> {
                     onPressed: (){},                   
                     title: "Secondary Button",                    
                   ),
+```
+ # Social Buttons
+```
                   FacebookButton(onPressed: (){},),
                    TwitterButton(onPressed: (){},),
                    GithubButton(onPressed: (){},),
@@ -176,6 +209,9 @@ class _HomePageState extends State<HomePage> {
                 children: <Widget>[
                   Row(
                        children: <Widget>[
+```
+ # Gredient Buttons
+```
                           GredientButton(onPressed: (){},
                   splashColor: Colors.orange,
                   colors: [
