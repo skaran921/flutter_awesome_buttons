@@ -1,11 +1,11 @@
 name: flutter_awesome_buttons
 description: A new Flutter package project.
-version: 1.0.0
-author:
-homepage:
+version: 1.1.0
+
+homepage: https://github.com/skaran921/flutter_awesome_buttons
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
