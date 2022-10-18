@@ -24,5 +24,6 @@ class SignInWithFacebook extends StatelessWidget {
         onPressed,
         fontColor ?? Colors.white,
         fontSize ?? 24.0);
+        FontAwesomeIcons.facebook),
   }
 }
